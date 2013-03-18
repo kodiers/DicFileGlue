@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'DicFileGlue' target in the 'DicFileGlue' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
