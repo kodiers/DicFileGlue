@@ -23,6 +23,7 @@ int main(int argc, const char * argv[])
             }
         }
         // check directory path
+        // Test
         if ([filemanager fileExistsAtPath:path] == YES) {
             NSLog(@"Directory exist!");
             NSArray *files;
